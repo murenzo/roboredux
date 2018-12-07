@@ -46,3 +46,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 # robofriends
 A basic react application that fetches users data from an API for listing.
 
+# roboredux
+A react application that implemented Redux that fetches users data from an API for listing.
